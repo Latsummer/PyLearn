@@ -1,0 +1,16 @@
+{
+    "flightSegmentList": [
+        {
+            "arrivalCityCode": "SYX",
+            "departureCityCode": "SIA",
+            "departureDate": "2021-03-28"
+        },
+        {
+            "arrivalCityCode": "SIA",
+            "departureCityCode": "SYX",
+            "departureDate": "2021-04-28"
+        }
+    ],
+    "cabin": "Y_S_C_F",
+    "flightWay": "D"
+}
